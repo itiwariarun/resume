@@ -1,0 +1,15 @@
+ [
+    {
+        "id":1,
+        "head":"Bachelor of architecture",
+        "year":2014,
+        "sub":"Marcelioneti Art Academy"
+    },
+      {
+        "id":2,
+        "head":"master of architecture",
+        "year":2018,
+        "sub":"Sami institute of arts"
+
+    }
+ ]

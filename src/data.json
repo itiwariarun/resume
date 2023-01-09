@@ -1,0 +1,60 @@
+
+
+ [
+    {
+        "id":1,
+        "head":"junior assistant",
+        "year":2018,
+        "subhead":[
+        {"id":1,"title":"Worked on marketing campaigns."},
+        {"id":2,"title":"Handed multiple digital accounts."},
+        {"id":3,"title":"Created digital marketing campaigns."},
+        {"id":4,"title":"Assited the head designer."}
+
+        ]
+    },
+
+    {
+        "id":2,
+        "head":"junior architect",
+         "year":2018,
+
+        "subhead":[
+        {"id":1,"title":"Worked on marketing campaigns."},
+        {"id":2,"title":"Handed multiple digital accounts."},
+        {"id":3,"title":"Created digital marketing campaigns."},
+        {"id":4,"title":"Assited the head designer."}
+
+        ]
+    },
+
+
+    {
+        "id":3,
+        "head":"project manager",
+         "year":2018,
+
+        "subhead":[
+        {"id":1,"title":"Worked on marketing campaigns."},
+        {"id":2,"title":"Handed multiple digital accounts."},
+        {"id":3,"title":"Created digital marketing campaigns."},
+        {"id":4,"title":"Assited the head designer."}
+
+        ]
+    },
+
+    {
+        "id":4,
+        "head":"Mid level architect",
+        "year":2018,
+
+        "subhead":[
+        {"id":1,"title":"Worked on marketing campaigns."},
+        {"id":2,"title":"Handed multiple digital accounts."},
+        {"id":3,"title":"Created digital marketing campaigns."},
+        {"id":4,"title":"Assited the head designer."}
+
+        ]
+    }
+   ]
+
