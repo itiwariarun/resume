@@ -45,9 +45,9 @@ function App() {
                   </p>
                 </hgroup>
                 <div className="pt-20 pb-10 space-y-3 text-sm font-bold uppercase text-[#2b2b24]">
-                  <Strwidg name="Interior Design" b="80" c="40" />
-                  <Strwidg name="3D Modelling" b="80" c="24" />
-                  <Strwidg name="Photography" b="60" c="60" />
+                  <Strwidg name="Interior Design" b="w-80" c="w-24" />
+                  <Strwidg name="3D Modelling" b="w-96" c="w-14" />
+                  <Strwidg name="Photography" b="w-40" c="w-40" />
                 </div>
                 <hgroup>
                   <h2 className="pb-4 text-lg font-bold uppercase text-[#2b2b24]">
@@ -113,6 +113,15 @@ function App() {
             </article>
           </section>
         </div>
+        <section className="fixed text-xs uppercase hover:underline bottom-2 right-2">
+          <a
+            href="https://frontend-dev-arun.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            check my Portfolio
+          </a>
+        </section>
       </main>
     </>
   );
